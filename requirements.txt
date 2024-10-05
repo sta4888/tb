@@ -1,0 +1,16 @@
+pytelegrambotapi
+sqlalchemy
+alembic
+psycopg2-binary
+python-dotenv
+beautifulsoup4
+lxml
+icalendar
+requests
+segno
+PyPDF2
+reportlab
+
+loguru
+celery[redis]
+redis
